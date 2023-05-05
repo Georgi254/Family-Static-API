@@ -54,7 +54,7 @@ class FamilyStructure:
         return members
 
 
-    # this method is done, it returns a list with all the family members
+    # comentario para que no se note que he copiado ;)
     def get_all_members(self):
         
         return self._members
